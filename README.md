@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhanesh!
 - 👀 I’m interested in Python & Visualization.
-- 🌱 I’m currently learning about various libraries in this regard.
-- 💞️ I’m looking to collaborate on EDA and Dashboarding projects.
+- 🌱 Currently learning about various libraries in this regard.
+- 💞️ Looking to collaborate on EDA and Dashboarding projects.
 - 📫 You can reach me at: https://www.linkedin.com/in/dhanesh-tolia-6161a9175 
 
 <!---
